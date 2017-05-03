@@ -8,7 +8,7 @@ baseurl: /feinstein-center-for-american-jewish-history
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Feinstein Center For American Jewish History supports innovative approaches to understanding American Jewish life. Its mission is simple: Inspiring Inquiry. In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites the public to join conversations about Jewish culture, politics, history, and identity across time and space.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 916
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: feinsteincenter@temple.edu
+  email: <a href="mailto:feinsteincenter@temple.edu">feinsteincenter@temple.edu</a>
   phone: 215-204-9553
 
 # Social Media
