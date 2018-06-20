@@ -5,6 +5,8 @@ title: Feinstein Center for American Jewish History
 baseurl: /feinstein-center-for-american-jewish-history
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/feinstein-center-for-american-jewish-history
 
 
 # Program Information
