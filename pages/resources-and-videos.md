@@ -8,6 +8,5 @@ title: Resources and Videos
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/staff.html
+sidebar: false
 ---
