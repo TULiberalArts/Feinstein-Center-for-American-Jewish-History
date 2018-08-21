@@ -5,17 +5,19 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
+description: >-
+keywords: ''
 # custom variables
+feature: true
+feature-title: Inspiring inquiry into American Jewish life since 1990.
+feature-image: 
+feature-body: >-
 sidebar: false
 ---
-Feinstein Center for American Jewish History...
+## Our Mission 
+The FEINSTEIN CENTER FOR AMERICAN JEWISH HISTORY supports innovative approaches to understanding American Jewish life. Its mission is simple: Inspiring Inquiry. In collaboration with institutions in Philadelphia and beyond, the FEINSTEIN CENTER invites the public to join conversations about Jewish culture, politics, history, and identity across time and space.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
