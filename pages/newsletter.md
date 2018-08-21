@@ -9,6 +9,7 @@ keywords: 'newsletter, Feinstein'
 description: >-
 # custom variables
 ---
+![CSCS]({{site.baseurl}}/media/TU_feinstein_ cropped rebrand.png){:.img-center}
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
