@@ -91,7 +91,7 @@ _Jews in North America, 1790-1830_
 
 - **Regina Stein**, Jewish Theological Seminary of America
 
-1995
+### 1995
 - **Reena Sigman Friedman** (Research Grant), Reconstructionist Rabbinical College
 _History of the Reconstructionist Movement_
 
