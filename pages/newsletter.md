@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /home/newsletter/
+permalink: /newsletter/
 published: true
 # meta-data variables
 title: Newsletter
