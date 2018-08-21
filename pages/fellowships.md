@@ -24,16 +24,18 @@ Philadelphia, PA 19122-6089<br>
 
 - [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf)
 
-___
-
 ## 2018 Summer Fellowship Award Recipients
 The Feinstein Center for American Jewish History announces the selection of its Summer Fellows for 2018:
 
 ![Gregg Drinkwater]({{site.baseurl}}/media/resized Gregg Drinkwater.png){:.img-right}
 **_Gregg Drinkwater_** is a PhD Candidate at the University of Colorado Boulder. Gregg’s research explores how gay and lesbian Jews transformed the landscape of liberal Judaism in the United States in the post-World War II era. By creating gay synagogues in the 1970s and asserting public gay Jewish identities, gay and lesbian Jews contributed to shifting the boundaries of normative sexual and gender roles within liberal American Judaism. These gay Jewish innovators paved the way for the ordination of gay and lesbian rabbis, the widespread adoption of ritual and liturgical innovations rooted in gay and lesbian experiences, and rapid shifts in Jewish perceptions of homosexuality. The Feinstein Center summer fellowship will support a research trip to New York City where Drinkwater will visit the archive at New York’s LGBT Community Center and conduct interviews with founding members of New York’s gay synagogue, as well as gay and lesbian Jews active in other grassroots gay Jewish groups in the 1970s and early 1980s.
 
+___
+
 ![Peter Labuza]({{site.baseurl}}/media/resized Peter Labuza.png){:.img-right}
 **_Peter Labuza_** is a PhD Candidate at the University of Southern California focusing on the rise of Hollywood’s entertainment law firms. His dissertation, “When A Handshake Meant Something: The Emergence of Entertainment Law and The Constitution of Hollywood Art, 1944-1967,” examines how a new class of entertainment lawyers aided individuals to establish themselves as artists within an industry that had previously espoused only entertainment. He looks at the history of Anti-Semitism in the history of Los Angeles’s legal profession and how Jewish solo practitioners came to redesign Hollywood through contracts, copyright, and tax law. In doing so, Labuza offers a new history of the postwar Hollywood that emphasizes how the Jewish American experience continued to define the industry through the critical junction between legal history and the business of American art in the 20th century.
+
+___
 
 ![Anastasiia Strakhova]({{site.baseurl}}/media/resized Anastasiia Strakhova.png){:.img-right}
 **_Anastasiia Strakhova_** is a Ph.D. Candidate in History at Emory University. Her dissertation, tentatively titled “Imagining Emigration: Crossing the Borders of Russian Jewry during the Era of Mass Migration, 1881-1917,” analyzes the impact of mass Russian-Jewish immigration to America on the Jewish population remaining in the Russian Empire. In particular, Anastasiia investigates how Jewish everyday life had changed since great migration started, what kind of new financial possibilities became available in the wake of emigration, and how new transnational Russian-Jewish identities were formed. She argues that America, as a prime destination of immigration, extended both the physical and mental borders of Russian Jewry. By studying the multifaceted interrelation between Russian Jews at home and in immigration, her dissertation pushes for a global understanding of Russian Jewry as a unified collective that expanded across vast stretches of space.
