@@ -1,16 +1,13 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home
-description: >-
-keywords: ''
-feature: false
-feature-title: null
-feature-image: null
-feature-body: null
 published: true
+# meta-data variables
+title: Home
+# custom variables
+sidebar: false
 ---
-
 Feinstein Center for American Jewish History...
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
