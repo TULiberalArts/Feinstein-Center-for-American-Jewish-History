@@ -29,16 +29,16 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Feinstein Announces our 2018 Fellows" 
+      content="Need Content" 
       image="" 
-      button-link=" " 
+      button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Feinstein's Jewish Professional Internship Program" 
+        content="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program" 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
