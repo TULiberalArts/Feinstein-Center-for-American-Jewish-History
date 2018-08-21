@@ -5,6 +5,8 @@ permalink: /fellowships/
 published: true
 # meta-data variables
 title: Fellowships
+description: >-
+keywords: ''
 # custom variables
 sidebar: false
 ---
