@@ -8,6 +8,8 @@ title: Newsletter
 keywords: 'newsletter, Feinstein'
 description: >-
 # custom variables
+sidebar: true
+sidebar_content: sidebars/staff.html
 ---
 ![Feinstein Logo]({{site.baseurl}}/media/TU_feinstein_ cropped rebrand2.png){:.img-center}
 <!-- Begin MailChimp Signup Form -->
