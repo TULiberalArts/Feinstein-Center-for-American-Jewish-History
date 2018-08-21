@@ -21,10 +21,10 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Subscribe to our Newsletter" 
+    content="Sign up now to stay up to date and current with all events, speaker series, videos and symposiums from the Feinstein Center!" 
     image="" 
-    button-link=" " 
+    button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/newsletter" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
