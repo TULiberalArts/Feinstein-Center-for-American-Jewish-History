@@ -1,10 +1,12 @@
 ---
-title: Research
-permalink: /research/
-layout: page
-keywords: ''
-description: >- 
+# global predefined variables
+layout: tla_page
+permalink: /support/
 published: true
+# meta-data variables
+title: Support
+# custom variables
+sidebar: false
 ---
 ## Check out this research program!
 
