@@ -5,19 +5,15 @@ permalink: /support/
 published: true
 # meta-data variables
 title: Support
+description: >-
+keywords: ''
 # custom variables
 sidebar: false
 ---
-## Check out this research program!
+## Support
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Charitable gifts from alumni and friends of the Center have a direct effect on the lives of Temple faculty and students and the larger Philadelphia community. These gifts enrich the intellectual experience for all of the humanities programs and departments at Temple and strengthen our ability to reach out into the Philadelphia community.
 
-https://temple.edu
+Private donations created the endowment for the Feinstein Center for American Jewish History and the Murray Friedman Professorship. Your gift will support conferences and other public events sponsored by the Feinstein Center as well as graduate fellowships.
 
----
-
-## Check out this research program!
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
+Every contribution makes a difference, whether $5 or $5,000. Contributions are tax-deductible as charitable gifts and are formally acknowledged by the University’s Office of Institutional Advancement.
