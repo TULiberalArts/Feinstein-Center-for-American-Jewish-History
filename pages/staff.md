@@ -5,10 +5,6 @@ permalink: /staff/
 published: true
 # meta-data variables
 title: Staff
-# custom variables
-sidebar: false
-affiliated: true
-affiliated_content: profiles/emeritus.html
-emeritus: false
 
 ---
+short paragraph about faculty to highlight
