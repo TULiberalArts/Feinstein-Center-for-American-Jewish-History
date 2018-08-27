@@ -38,7 +38,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Feinstein's Jewish Professional Internship Program" 
-        content="Gain three course credits while working with arts and culture organizations, social justice start-ups, educational institutions, synagogues and other Jewish community spaces and more" 
+        content="Gain three course credits while working with arts and culture organizations, social justice start-ups, educational institutions, synagogues and other Jewish community spaces and more." 
         image="" 
         button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program" 
         button-text="Learn More" %}
