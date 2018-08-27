@@ -15,7 +15,7 @@ The Feinstein Center at Temple University announces its annual summer fellowship
 
 Materials are due by March 18, 2019. Email submissions requested at [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu).
 
-We prefer that all application materials be emailed to feinsteincenter@temple.edu. You may also mail the materials to:
+We prefer that all application materials be emailed to [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu). You may also mail the materials to:
 
 **Feinstein Center of American Jewish History Temple University**<br>
 916 Gladfelter Hall (025-24)<br>
