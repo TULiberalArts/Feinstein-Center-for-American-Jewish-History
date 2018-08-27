@@ -12,7 +12,7 @@ sidebar: false
 ---
 **Syllabi, are not getting migrated; this is too much intranet material for us to house. The program can migrate these into Google docs and create links for me to post into a pdf to link up if they want to keep these.** 
 
-**The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's.**
+**The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's when there are live web versions.**
 
 ![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.img-right}
 ## Books, Articles, and Curricula
