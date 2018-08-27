@@ -7,8 +7,4 @@ published: true
 title: Staff
 # custom variables
 sidebar: false
-affiliated: true
-affiliated_content: profiles/emeritus.html
-emeritus: false
-
 ---
