@@ -12,8 +12,9 @@ sidebar: false
 ---
 **Syllabi, are not getting migrated; this is too much intranet material for us to house. The program can migrate these into Google docs and create links for me to post into a pdf to link up if they want to keep these.** 
 
-**The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's.
+**The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's.**
 
+![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.img-right}
 ## Books, Articles, and Curricula
 The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information. As a convenience, you may also click below on the title of the book to purchase it from the publisher. View list of books, articles, and curricula.
 
@@ -39,3 +40,44 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 - 02/26/14: [The Hands that Feed](https://vimeo.com/channels/719198/95794834)
 - 12/12/14: [From Tel Aviv to Ramallah: A Beatbox Journey](https://vimeo.com/132808428)
 
+## Programs 
+
+### Sounds Jewish
+**Past Programs**
+- [Spring 2015](https://drive.google.com/file/d/1vOi69Sp9OQRgjJolgIHPd7t9ldAuFX57/view?usp=sharing)
+- [Fall 2014](https://drive.google.com/file/d/1Ks2NgCHokpQKOKH5M_Xw-zHg67eHJLqv/view?usp=sharing)
+
+### What is Your Food Worth
+**Past Programs**
+- [Spring 2014](https://drive.google.com/file/d/1wQTf8d0IwJCJYzdUBWTMTQVFGnj5BUQY/view?usp=sharing)
+- [Fall 2013](https://drive.google.com/file/d/1Gg1PqFnCDg7GJkU8inh0ZuaET_Ab617K/view?usp=sharing)
+- [Spring 2013](https://drive.google.com/file/d/17f8V_mUcvWi6diOq88LLvn-i5rknmyQr/view?usp=sharing)
+- How Kosher Is Kosher Symposium, April 2013
+- [Fall 2012](https://drive.google.com/file/d/1kFYAZa9BzVopnnWZX1XDvQRHEfGeJvFP/view?usp=sharing)
+
+### Projects
+- [Jews & Leftist Politics in Philadelphia: An Oral History Collection](https://liberalarts.temple.edu/sites/liberalarts/files/guidetoJewsandLeftistPoliticsinPhiladelphia.pdf)
+- [Soviet Jewry Activists & Civic Engagement: An Oral History Project](https://liberalarts.temple.edu/sites/liberalarts/files/Soviet-Jewry-Report-final.docx)
+
+## Past Events
+
+- [INSPIRING INQUIRY, Spring 2018](https://drive.google.com/file/d/1loIf-HZdM06OUduoyvV-OdnFW0GAMods/view?usp=sharing)
+- [INSPIRING INQUIRY, Spring 2017](https://drive.google.com/file/d/1byaor1YZw1DoTUDM-yKzAV7UD8L_5jMh/view?usp=sharing)
+- [INSPIRING INQUIRY, Fall 2016](https://drive.google.com/file/d/1x5JjQaahLfqT8SUVwRUo2aQRGBUq8A7y/view?usp=sharing)
+- [INSPIRING INQUIRY, Fall 2015(https://drive.google.com/file/d/1lZL_k7pFxOp1vsfuVOwAM_pTKOGN7VJs/view?usp=sharing)
+- [INSPIRING INQUIRY, Spring 2014](https://drive.google.com/file/d/1wQTf8d0IwJCJYzdUBWTMTQVFGnj5BUQY/view?usp=sharing)
+- [SOUNDS JEWISH, [Fall 2014](https://drive.google.com/file/d/1Ks2NgCHokpQKOKH5M_Xw-zHg67eHJLqv/view?usp=sharing)
+- WHAT IS YOUR FOOD WORTH, [Fall 2013](https://drive.google.com/file/d/1Gg1PqFnCDg7GJkU8inh0ZuaET_Ab617K/view?usp=sharing)
+- WHAT IS YOUR FOOD WORTH [Spring 2013](https://drive.google.com/file/d/17f8V_mUcvWi6diOq88LLvn-i5rknmyQr/view?usp=sharing)
+- WHAT IS YOUR FOOD WORTH [Fall 2012](https://drive.google.com/file/d/1kFYAZa9BzVopnnWZX1XDvQRHEfGeJvFP/view?usp=sharing)
+
+## Past Conferences
+
+### The City
+**The Art of Being Jewish in the City**
+
+Spring 2012 Symposium
+Fall 2011 Symposium 
+Jews and Judaism in Urban Space, Spring 2011 
+Jews and the America City, Fall 2010
+Earlier Programs, 1999-2007
