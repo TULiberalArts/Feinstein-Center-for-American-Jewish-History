@@ -8,7 +8,7 @@ title: Home
 # custom variables
 feature: true
 feature-title:
-feature-image: media/TU_feinstein_ cropped rebrand2.png
+feature-image: media/resizedhero_bg.png
 feature-body: >-
 sidebar: false
 promotion-table: true
