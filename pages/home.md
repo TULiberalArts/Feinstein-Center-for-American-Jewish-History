@@ -8,7 +8,7 @@ title: Home
 # custom variables
 feature: true
 feature-title:
-feature-image: 
+feature-image: media/crackedvoices.png
 feature-body: >-
 sidebar: false
 promotion-table: true
