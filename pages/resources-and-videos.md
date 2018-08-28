@@ -9,10 +9,6 @@ title: Resources and Videos
 sidebar: true
 sidebar_content: staff.html
 ---
-**Syllabi, are not getting migrated; this is too much intranet material for us to house. The program can migrate these into Google docs and create links for me to post into a pdf to link up if they want to keep these.**
-
-**The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's when there are live web versions.**
-
 ![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.img-right}
 ## Books, Articles, and Curricula
 The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information. As a convenience, you may also click below on the title of the book to purchase it from the publisher. View list of books, articles, and curricula.
