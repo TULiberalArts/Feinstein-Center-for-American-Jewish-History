@@ -7,6 +7,7 @@ published: true
 title: Support
 # custom variables
 sidebar: true
+sidebar_content: staff.html
 ---
 ## Support
 **Charitable gifts from alumni and friends of the Center have a direct effect** on the lives of Temple faculty and students and the larger Philadelphia community. These gifts enrich the intellectual experience for all of the humanities programs and departments at Temple and strengthen our ability to reach out into the Philadelphia community.

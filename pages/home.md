@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Home
 # custom variables
-feature: false
+feature: true
 feature-title:
 feature-image: media/TU_feinstein_ cropped rebrand2.png
 feature-body: >-
