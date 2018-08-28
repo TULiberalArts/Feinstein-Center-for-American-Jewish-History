@@ -6,7 +6,6 @@ published: true
 # meta-data variables
 title: Newsletter
 keywords: 'newsletter, Feinstein'
-description: >-
 # custom variables
 sidebar: false
 ---

@@ -5,11 +5,9 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >-
-keywords: ''
 # custom variables
-feature: true
-feature-title: 
+feature: false
+feature-title:
 feature-image: media/TU_feinstein_ cropped rebrand2.png
 feature-body: >-
 sidebar: false
@@ -20,27 +18,27 @@ The FEINSTEIN CENTER FOR AMERICAN JEWISH HISTORY supports innovative approaches 
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Subscribe to our Newsletter" 
-    content="Sign up now to stay up to date and current with all events, speaker series, videos and symposiums from the Feinstein Center!" 
-    image="" 
-    button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/newsletter" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Subscribe to our Newsletter"
+    content="Sign up now to stay up to date and current with all events, speaker series, videos and symposiums from the Feinstein Center!"
+    image=""
+    button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/newsletter"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Feinstein Announces our 2018 Fellows" 
-      content="Visit our Fellows page to see our Summer 2018 and past fellows." 
-      image="" 
-      button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Feinstein Announces our 2018 Fellows"
+      content="Visit our Fellows page to see our Summer 2018 and past fellows."
+      image=""
+      button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Feinstein's Jewish Professional Internship Program" 
-        content="Gain three course credits while working with arts and culture organizations, social justice start-ups, educational institutions, synagogues and other Jewish community spaces and more." 
-        image="" 
-        button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Feinstein's Jewish Professional Internship Program"
+        content="Gain three course credits while working with arts and culture organizations, social justice start-ups, educational institutions, synagogues and other Jewish community spaces and more."
+        image=""
+        button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program"
         button-text="Learn More" %}
       </div>
 </div>

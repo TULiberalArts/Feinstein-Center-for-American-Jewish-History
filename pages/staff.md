@@ -5,5 +5,6 @@ permalink: /staff/
 published: true
 # meta-data variables
 title: Staff
+# custom variables
+sidebar: false
 ---
-short paragraph about faculty to highlight

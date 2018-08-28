@@ -5,12 +5,11 @@ permalink: /resources-and-videos/
 published: true
 # meta-data variables
 title: Resources and Videos
-description: >-
-keywords: ''
 # custom variables
-sidebar: false
+sidebar: true
+sidebar_content: staff.html
 ---
-**Syllabi, are not getting migrated; this is too much intranet material for us to house. The program can migrate these into Google docs and create links for me to post into a pdf to link up if they want to keep these.** 
+**Syllabi, are not getting migrated; this is too much intranet material for us to house. The program can migrate these into Google docs and create links for me to post into a pdf to link up if they want to keep these.**
 
 **The Past Newsletters Mailchimp urls need to be shared with me so I can link to the previous web version of the newsletter. We are not migrating newsletters that have been downloaded as postcards and saved as pdf's when there are live web versions.**
 
@@ -34,13 +33,13 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
 - 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part I](https://vimeo.com/channels/719198/109291015)
 - 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part II](https://vimeo.com/channels/719198/106816947)
-- 03/12/14: [Jewish Music Unplugged Part I](https://vimeo.com/channels/719198/96138454) 
+- 03/12/14: [Jewish Music Unplugged Part I](https://vimeo.com/channels/719198/96138454)
 - 03/12/14: [Jewish Music Unplugged Part II](https://vimeo.com/channels/719198/96169945)
-- 03/06/14: [Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement](https://vimeo.com/channels/719198/96022807) 
+- 03/06/14: [Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement](https://vimeo.com/channels/719198/96022807)
 - 02/26/14: [The Hands that Feed](https://vimeo.com/channels/719198/95794834)
 - 12/12/14: [From Tel Aviv to Ramallah: A Beatbox Journey](https://vimeo.com/132808428)
 
-## Programs 
+## Programs
 
 ### Sounds Jewish
 **Past Programs**
@@ -118,7 +117,7 @@ _Sponsored by Temple University’s Feinstein Center for American Jewish History
 - [Program Information](https://drive.google.com/file/d/1Blv-EOgURKi0IKuZaolh8ki8dB7nqwY1/view?usp=sharing)(.pdf)
 - [Conference article from the Philadelphia Jewish Exponent](https://drive.google.com/file/d/1M_j6C5TrJPC7eQ1idImYyUPiciHVNbbH/view?usp=sharing)(.pdf)
 
-### Uneasy Allies? Evangelical-Jewish Relations Today 
+### Uneasy Allies? Evangelical-Jewish Relations Today
 **November 30-December 1, 2005**<br>
 **The Jewish Theological Seminary, New York City**<br>
 

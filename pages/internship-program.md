@@ -5,10 +5,9 @@ permalink: /internship-program/
 published: true
 # meta-data variables
 title: Internship Program
-description: >-
-keywords: ''
 # custom variables
-sidebar: false
+sidebar: true
+sidebar_content: staff.html
 ---
 ![Internship Program]({{site.baseurl}}/media/resized Jewish Internship Program.jpg){:.img-center}
 ## Feinstein Center's Jewish Professional Internship Program
