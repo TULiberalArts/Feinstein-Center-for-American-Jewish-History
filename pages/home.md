@@ -8,7 +8,7 @@ title: Home
 # custom variables
 feature: true
 feature-title:
-feature-image: media/resizedhero_bg.png
+feature-image: media/resized2hero.png
 feature-body: >-
 sidebar: false
 promotion-table: true
