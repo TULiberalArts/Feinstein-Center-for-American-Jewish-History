@@ -6,9 +6,9 @@ published: true
 # meta-data variables
 title: Home
 # custom variables
-feature: true
+feature: false
 feature-title:
-feature-image: 
+feature-image: false
 feature-body: >-
 sidebar: false
 promotion-table: true
