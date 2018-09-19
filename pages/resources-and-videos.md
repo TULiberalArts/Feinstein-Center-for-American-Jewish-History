@@ -9,7 +9,7 @@ title: Resources and Videos
 sidebar: true
 sidebar_content: staff.html
 ---
-![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.img-right}
+![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.responsive-img .img-right}
 ## Books, Articles, and Curricula
 The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information. As a convenience, you may also click below on the title of the book to purchase it from the publisher. View list of books, articles, and curricula.
 
@@ -18,7 +18,7 @@ View a list of archives all related to the exploration of the American Jewish ex
 - [Download Database](https://liberalarts.temple.edu/sites/liberalarts/files/ArchiveTableMergedDataupdated10-25-13.pdf) (pdf)
 
 ## Vimeo Channel
-![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.img-right}
+![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
 Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our [Vimeo channel](https://vimeo.com/channels/719198/109291015). You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
