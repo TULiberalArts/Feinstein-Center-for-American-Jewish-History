@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Internship Program
 # custom variables
-sidebar: true
-sidebar_content: staff.html
+sidebar: staff.html
 ---
 ![Internship Program]({{site.baseurl}}/media/resized Jewish Internship Program.jpg){:.img-center}
 ## Feinstein Center's Jewish Professional Internship Program

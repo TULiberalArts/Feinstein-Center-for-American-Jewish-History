@@ -6,5 +6,4 @@ published: true
 # meta-data variables
 title: Staff
 # custom variables
-sidebar: false
 ---

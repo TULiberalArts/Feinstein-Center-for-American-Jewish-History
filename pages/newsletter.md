@@ -7,7 +7,6 @@ published: true
 title: Newsletter
 keywords: 'newsletter, Feinstein'
 # custom variables
-sidebar: false
 ---
 ![Feinstein Logo]({{site.baseurl}}/media/TU_feinstein_ cropped rebrand2.png){:.img-center}
 <!-- Begin MailChimp Signup Form -->

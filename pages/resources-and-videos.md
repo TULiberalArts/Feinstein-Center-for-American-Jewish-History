@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Resources and Videos
 # custom variables
-sidebar: true
-sidebar_content: staff.html
+sidebar: staff.html
 ---
 ![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.responsive-img .img-right}
 ## Books, Articles, and Curricula
