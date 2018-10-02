@@ -10,18 +10,15 @@ title: Fellowships
 sidebar: staff.html
 ---
 ## Fellowships
-The Feinstein Center at Temple University announces its annual summer fellowship to support research in the American Jewish experience. Predoctoral and postdoctoral scholars studying any area of American Jewish life are eligible for the grant of up to $4000. Applications should include a proposal of no more than five pages, a letter of recommendation, a CV, and a detailed budget of how funds will be used.
+The Feinstein Center at Temple University announces its annual summer fellowship to support research in the American Jewish experience. Predoctoral and postdoctoral scholars studying any area of American Jewish life are eligible for the grant of up to  4000. Applications should include a proposal of no more than five pages, a letter of recommendation, a CV, and a detailed budget of how funds will be used.
+Materials are due by March 18, 2019. We prefer that all application materials be emailed to [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu). 
 
-Materials are due by March 18, 2019. Email submissions requested at [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu).
-
-We prefer that all application materials be emailed to [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu). You may also mail the materials to:
-
+You may also mail the materials to:
 **Feinstein Center of American Jewish History Temple University**<br>
-916 Gladfelter Hall (025-24)<br>
+Temple University<br>
+916 Gladfelter Hall 025-24<br>
 1115 West Berks Street<br>
 Philadelphia, PA 19122-6089<br>
-
-- [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf)
 
 ## 2018 Summer Fellowship Award Recipients
 The Feinstein Center for American Jewish History announces the selection of its Summer Fellows for 2018:
@@ -37,7 +34,9 @@ ___
 ___
 
 ![Anastasiia Strakhova]({{site.baseurl}}/media/resized Anastasiia Strakhova.png){:.responsive-img .img-right}
-**_Anastasiia Strakhova_** is a Ph.D. Candidate in History at Emory University. Her dissertation, tentatively titled “Imagining Emigration: Crossing the Borders of Russian Jewry during the Era of Mass Migration, 1881-1917,” analyzes the impact of mass Russian-Jewish immigration to America on the Jewish population remaining in the Russian Empire. In particular, Anastasiia investigates how Jewish everyday life had changed since great migration started, what kind of new financial possibilities became available in the wake of emigration, and how new transnational Russian-Jewish identities were formed. She argues that America, as a prime destination of immigration, extended both the physical and mental borders of Russian Jewry. By studying the multifaceted interrelation between Russian Jews at home and in immigration, her dissertation pushes for a global understanding of Russian Jewry as a unified collective that expanded across vast stretches of space.
+**_Anastasiia Strakhova_** is a PhD Candidate in History at Emory University. Her dissertation, tentatively titled “Imagining Emigration: Crossing the Borders of Russian Jewry during the Era of Mass Migration, 1881-1917,” analyzes the impact of mass Russian-Jewish immigration to America on the Jewish population remaining in the Russian Empire. In particular, Anastasiia investigates how Jewish everyday life had changed since great migration started, what kind of new financial possibilities became available in the wake of emigration, and how new transnational Russian-Jewish identities were formed. She argues that America, as a prime destination of immigration, extended both the physical and mental borders of Russian Jewry. By studying the multifaceted interrelation between Russian Jews at home and in immigration, her dissertation pushes for a global understanding of Russian Jewry as a unified collective that expanded across vast stretches of space.
+
+- [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf)
 
 ___
 
