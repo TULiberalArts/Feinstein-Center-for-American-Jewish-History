@@ -36,7 +36,7 @@ ___
 ![Anastasiia Strakhova]({{site.baseurl}}/media/resized Anastasiia Strakhova.png){:.responsive-img .img-right}
 **_Anastasiia Strakhova_** is a PhD Candidate in History at Emory University. Her dissertation, tentatively titled “Imagining Emigration: Crossing the Borders of Russian Jewry during the Era of Mass Migration, 1881-1917,” analyzes the impact of mass Russian-Jewish immigration to America on the Jewish population remaining in the Russian Empire. In particular, Anastasiia investigates how Jewish everyday life had changed since great migration started, what kind of new financial possibilities became available in the wake of emigration, and how new transnational Russian-Jewish identities were formed. She argues that America, as a prime destination of immigration, extended both the physical and mental borders of Russian Jewry. By studying the multifaceted interrelation between Russian Jews at home and in immigration, her dissertation pushes for a global understanding of Russian Jewry as a unified collective that expanded across vast stretches of space.
 
-- [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf)
+- [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf) 
 
 ___
 
