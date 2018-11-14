@@ -7,6 +7,7 @@ baseurl: /feinstein-center-for-american-jewish-history
 production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/feinstein-center-for-american-jewish-history
+faculty-page: /staff/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
