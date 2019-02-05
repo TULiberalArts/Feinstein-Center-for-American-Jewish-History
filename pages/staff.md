@@ -7,5 +7,5 @@ published: true
 title: Staff
 # custom variables
 faculty: profiles/faculty.html
-affiliated: profiles/affiliated.html
+
 ---
