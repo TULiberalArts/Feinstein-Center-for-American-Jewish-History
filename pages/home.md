@@ -12,6 +12,8 @@ promotion-table: true
 feature-image: 
 feature: true
 ---
+![Feinstein hero]({{site.baseurl}}/media/feinsteinrebrand2logo.png){:.responsive-img .img-center}
+
 ## Inspiring Inquiry into American Jewish Life Since 1990
 The FEINSTEIN CENTER FOR AMERICAN JEWISH HISTORY supports innovative approaches to understanding American Jewish life. Its mission is simple: Inspiring Inquiry. In collaboration with institutions in Philadelphia and beyond, the FEINSTEIN CENTER invites the public to join conversations about Jewish culture, politics, history, and identity across time and space.
 
