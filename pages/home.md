@@ -10,8 +10,7 @@ feature: false
 feature-title:
 feature-image: false
 feature-body: >-
-
-promotion-table: true
+promotion-table: false
 ---
 ![Feinstein Logo]({{site.baseurl}}/media/TU_feinstein_ cropped rebrand2.png){:.responsive-img .img-center}
 
