@@ -11,7 +11,7 @@ sidebar: staff.html
 ---
 ## Fellowships
 The Feinstein Center at Temple University announces its annual summer fellowship to support research in the American Jewish experience. Predoctoral and postdoctoral scholars studying any area of American Jewish life are eligible for the grant of up to  4000. Applications should include a proposal of no more than five pages, a letter of recommendation, a CV, and a detailed budget of how funds will be used.
-Materials are due by March 18, 2019. We prefer that all application materials be emailed to [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu). 
+Materials are due by March 20, 2020. We prefer that all application materials be emailed to [feinsteincenter@temple.edu](mailto:feinsteincenter@temple.edu). 
 
 You may also mail the materials to:<br>
 **Feinstein Center of American Jewish History Temple University**<br>
@@ -20,21 +20,24 @@ Temple University<br>
 1115 West Berks Street<br>
 Philadelphia, PA 19122-6089<br>
 
-## 2018 Summer Fellowship Award Recipients
-The Feinstein Center for American Jewish History announces the selection of its Summer Fellows for 2018:
+## 2019 Summer Fellowship Award Recipients
+The Feinstein Center for American Jewish History announces the selection of its Summer Fellows for 2019:
 
-![Gregg Drinkwater]({{site.baseurl}}/media/resized Gregg Drinkwater.png){:.responsive-img .img-right}
-**_Gregg Drinkwater_** is a PhD Candidate at the University of Colorado Boulder. Gregg’s research explores how gay and lesbian Jews transformed the landscape of liberal Judaism in the United States in the post-World War II era. By creating gay synagogues in the 1970s and asserting public gay Jewish identities, gay and lesbian Jews contributed to shifting the boundaries of normative sexual and gender roles within liberal American Judaism. These gay Jewish innovators paved the way for the ordination of gay and lesbian rabbis, the widespread adoption of ritual and liturgical innovations rooted in gay and lesbian experiences, and rapid shifts in Jewish perceptions of homosexuality. The Feinstein Center summer fellowship will support a research trip to New York City where Drinkwater will visit the archive at New York’s LGBT Community Center and conduct interviews with founding members of New York’s gay synagogue, as well as gay and lesbian Jews active in other grassroots gay Jewish groups in the 1970s and early 1980s.
-
-___
-
-![Peter Labuza]({{site.baseurl}}/media/resized Peter Labuza.png){:.responsive-img .img-right}
-**_Peter Labuza_** is a PhD Candidate at the University of Southern California focusing on the rise of Hollywood’s entertainment law firms. His dissertation, “When A Handshake Meant Something: The Emergence of Entertainment Law and The Constitution of Hollywood Art, 1944-1967,” examines how a new class of entertainment lawyers aided individuals to establish themselves as artists within an industry that had previously espoused only entertainment. He looks at the history of Anti-Semitism in the history of Los Angeles’s legal profession and how Jewish solo practitioners came to redesign Hollywood through contracts, copyright, and tax law. In doing so, Labuza offers a new history of the postwar Hollywood that emphasizes how the Jewish American experience continued to define the industry through the critical junction between legal history and the business of American art in the 20th century.
+![Jeremiah Lockwood]({{site.baseurl}}/media/resizedjeremiah.png){:.responsive-img .img-right}
+**_Jeremiah Lockwood_** (PhD candidate, Stanford University)<br>
+Jeremiah Lockwood has played music around the world from Montreal Jazz Festival to the Festival au Desert in Timbuktu, Mali, as the leader of The Sway Machinery and as the guitarist in Balkan Beat Box. He was a recipient of the Six Points Fellowship for Emerging Jewish Artists, an Artist-in-Residence for the Forward and a Brooklyn Philharmonic Orchestra Composer Fellow. He is currently completing a PhD at Stanford University. His thesis focuses on cantorial music revivalism in the Chassidic community in Brooklyn, NY. His duo project Book of J (with singer Jewlia Eisenberg) released their debut album in 2018. Jeremiah is again collaborating with Jewlia on his current project, _LA Archivera_. _LA Archivera_ is an exploration of the recordings of archivist Emily Sene. From the 1940s to the 1970s, Emily Sene gathered music without institutional support or academic background. Her collection documents and illuminates the experience of Sephardic Jewish immigrants to California through music.
 
 ___
 
-![Anastasiia Strakhova]({{site.baseurl}}/media/resized Anastasiia Strakhova.png){:.responsive-img .img-right}
-**_Anastasiia Strakhova_** is a PhD Candidate in History at Emory University. Her dissertation, tentatively titled “Imagining Emigration: Crossing the Borders of Russian Jewry during the Era of Mass Migration, 1881-1917,” analyzes the impact of mass Russian-Jewish immigration to America on the Jewish population remaining in the Russian Empire. In particular, Anastasiia investigates how Jewish everyday life had changed since great migration started, what kind of new financial possibilities became available in the wake of emigration, and how new transnational Russian-Jewish identities were formed. She argues that America, as a prime destination of immigration, extended both the physical and mental borders of Russian Jewry. By studying the multifaceted interrelation between Russian Jews at home and in immigration, her dissertation pushes for a global understanding of Russian Jewry as a unified collective that expanded across vast stretches of space.
+![April Rosenblum ]({{site.baseurl}}/media/resizedapril.png){:.responsive-img .img-right}
+**_April Rosenblum_** (PhD candidate, York University)<br>
+April Rosenblum is an MA candidate in History at York University. Her thesis follows microhistorical threads from a single crime in Philadelphia to the dissolution of grassroots urban interaction between white Jewish and Black communities in midcentury America. In 1971, an elderly Jewish shopkeeper’s murder by a younger Black man seemed to neatly fit Philadelphia’s headlines of rising crime and racial tensions. But beneath the surface lay a different story: of intimacy and interdependence between white Jewish and Black leftists in an age of political crisis. This research shifts focus from narratives of mutual betrayal to examine the postwar roots of Black-Jewish separation, the political tolls of the Cold War, and the unconventional bonds that endured.
+
+___
+
+![ Alissa Schapiro ]({{site.baseurl}}/media/resizedalissa.png){:.responsive-img .img-right}
+**_Alissa Schapiro_** (PhD candidate, Northwestern University)<br>
+Alissa Schapiro is a PhD Candidate in Art History at Northwestern University. Her dissertation investigates the relationship between American cultural production and the Holocaust during World War II. She traces artistic, institutional, performative, and mass media-related practices in order to understand the ways in which the American cultural field mediated knowledge of the ongoing mass genocide of European Jews by the Nazis, while also questioning the impact of American antisemitism on these various projects. 
 
 - [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf) 
 
