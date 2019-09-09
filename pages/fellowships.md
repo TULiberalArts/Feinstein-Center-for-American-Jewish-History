@@ -30,7 +30,7 @@ Jeremiah Lockwood has played music around the world from Montreal Jazz Festival 
 ___
 
 ![April Rosenblum ]({{site.baseurl}}/media/resized2april.png){:.responsive-img .img-right}
-**_April Rosenblum_** (PhD candidate, York University)<br>
+**_April Rosenblum_** (MA candidate, York University)<br>
 April Rosenblum is an MA candidate in History at York University. Her thesis follows microhistorical threads from a single crime in Philadelphia to the dissolution of grassroots urban interaction between white Jewish and Black communities in midcentury America. In 1971, an elderly Jewish shopkeeper’s murder by a younger Black man seemed to neatly fit Philadelphia’s headlines of rising crime and racial tensions. But beneath the surface lay a different story: of intimacy and interdependence between white Jewish and Black leftists in an age of political crisis. This research shifts focus from narratives of mutual betrayal to examine the postwar roots of Black-Jewish separation, the political tolls of the Cold War, and the unconventional bonds that endured.
 
 ___
