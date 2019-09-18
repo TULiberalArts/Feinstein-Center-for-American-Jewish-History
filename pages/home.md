@@ -24,7 +24,7 @@ ___
     title="Subscribe to our Newsletter"
     content="Sign up now to stay up to date and current with all events, speaker series, videos and symposiums from the Feinstein Center!"
     image=""
-    button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/newsletter"
+    button-link="https://www.cla.temple.edu/feinstein-center-for-american-jewish-history/newsletter"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -32,7 +32,7 @@ ___
       title="Feinstein Announces our 2019 Fellows"
       content="Visit our Fellows page to see our Summer 2019 and past fellows."
       image=""
-      button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships"
+      button-link="https://www.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -40,7 +40,7 @@ ___
         title="Feinstein's Jewish Professional Internship Program"
         content="Gain three course credits while working with arts and culture organizations, social justice start-ups, educational institutions, synagogues and other Jewish community spaces and more."
         image=""
-        button-link="https://develop.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program"
+        button-link="https://www.cla.temple.edu/feinstein-center-for-american-jewish-history/internship-program"
         button-text="Learn More" %}
       </div>
 </div>
