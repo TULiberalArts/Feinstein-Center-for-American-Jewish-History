@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /advisory-committee-members/
+permalink: /advisory-committee/
 published: true
 # meta-data variables
-title: Advisory Committee Members
+title: Advisory Committee 
 # custom variables
 ---
 
