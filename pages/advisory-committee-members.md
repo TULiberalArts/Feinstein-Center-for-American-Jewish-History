@@ -13,6 +13,13 @@ Ross Berkowitz is the founder and Executive Director of [Tribe 12](http://www.tr
 
 ___
 
+**Dan Blacksberg**
+From the landmark experimental music venue Roulette to the Krakow Jewish Culture Festival, Philadelphia-native Dan Blacksberg has created a singular musical voice as a trombonist, composer, and educator. Acknowledged as the foremost practitioner of klezmer trombone in its traditional and modern forms and a respected voice in experimental music, Dan is known for a formidable virtuosity and extreme versatility. It is not unusual to see Dan switch back and forth from traditional klezmer, straight ahead jazz, experimental new music, heavy metal, or even country on his trombone in the course of a few days of performing.
+
+Dan is in high demand as a teacher at many of the leading klezmer festivals such as Klezkamp, Klezkanada, and Yiddish Summer Weimar. He has given workshops and master classes at the University of Pennsylvania, Temple University, Yale, and the University of Virginia, where he an artist in residence. He is currently the Klezmer musician in Residence at Kol Tzedek Synagogue in West Philadelphia. Awarded a Pew Fellowship in the Arts in 2012, he has received grants from the American Composers Forum Philadelphia Chapter and was a 2014 composer fellow at the UCross Foundation.
+
+___
+
 **Rabbi Yosef Goldman**
 Yosef is Assistant Rabbi at [Temple BZBI](http://www.bzbi.org/) in Center City. He is a spiritual community builder, educator, prayer leader and musician. Yosef is passionate about creating a range of opportunities for engagement in Jewish community that speak to the many ways that people identify as Jews- be they ethnic, religious or cultural. He has an eclectic background and spiritual path. Raised Orthodox, in a mixed Ashkenazi/Arab Jewish family, he has since studied, taught and created sacred prayer space in communities throughout the Jewish denominational spectrum, including B’nai Jeshurun, The Carlebach Shul and Romemu in New York City. Yosef was ordained in 2013 at the Jewish Theological Seminary with a concentration in pastoral care and counseling, and earned a Masters in Sacred Music from the H.L. Miller Cantorial School. He performs as a singer with Middle Eastern Jewish music collective the Epichorus. Yosef lives in West Mount Airy with his wife, Rabbi Annie Lewis.
 
@@ -23,12 +30,7 @@ Rabbi Seth Goren is the Director of [Repair the World: Philadelphia](http://www.
 
 ___
 
-**Warren Hoffman**
-Warren Hoffman is the Executive Director of the Association for Jewish Studies. Prior to that, he served the Associate Director of Community Programming for the Center of Jewish Life and Learning at Jewish Federation of Greater Philadelphia and worked for over five years as the Senior Director of Programming at the Gershman Y where he was named the “next wave” of Jewish culture by the Jewish Exponent. In the world of theater, Warren was the literary manager and dramaturg for Philadelphia Theatre Company and in New York, Hoffman was the Associate Artistic Director of Jewish Repertory Theatre and a writer for TalkinBroadway.com. Hoffman holds a Ph.D. in American Literature from the University of California-Santa Cruz. He earned rave reviews for his book The Passing Game: Queering Jewish American Culture published by Syracuse University Press. His most recent book is The Great White Way: Race and the Broadway Musical.
-
-___
-
-**Morris Levin**
+**Moriah Levin**
 Morris Levin is a financial consultant who operates the Philadelphia small business consulting practice Elysian Fields Baseball LLC. Morris is on the board of [Congregation Shivtei Yeshuron Ezras Israel](http://www.thelittleshul.org/) and active in the synagogue’s revitalization. Morris graduated with an MBA from the University of Pennsylvania, and a BA from Oberlin College.
 
 ___
