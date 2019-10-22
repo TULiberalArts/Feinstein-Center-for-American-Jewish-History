@@ -7,6 +7,7 @@ published: true
 title: Advisory Committee 
 # custom variables
 ---
+Feinstein's Advisory Committee is composed of community members whose work and passions align with Feinstein's public-facing scholarly mission. Some of its members lead organizations that serve as host sites for Feinstein student interns, while others have taught classes and delivered lectures on Temple's campus. The Advisory Committee works with Feinstein's director and staff to fulfill the mission of bridging scholarship with public conversations about American Jewish history and experiences.
 
 **Ross Berkowitz** is the founder and Executive Director of [Tribe 12](http://www.tribe12.org/). Fascinated by how religion and the communities that have been spawned by religious movements have influenced our world, Ross studied the history and sociology of religion at Vassar College and New York University, where he earned his MA in Modern Jewish History. Over the years, Ross has been a camp director, a Hillel director, an educator and an activist in the Jewish community. Born in the suburbs of Philadelphia, raised and inspired through fifteen formative years in Habonim Dror and multiple long term Israel experiences, Ross now lives with his wife Audrey, daughter Martina, and son Hans in Center City Philadelphia.
 
