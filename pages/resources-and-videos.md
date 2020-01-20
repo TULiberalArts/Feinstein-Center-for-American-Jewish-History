@@ -21,9 +21,9 @@ View a list of archives all related to the exploration of the American Jewish ex
 Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
-- 6/18/18: [Beyond American Jewish Exceptionalism](https://drive.google.com/file/d/1hc9A0zlY2ikkaJlYxpsAaKkTX-ka-L43/view?usp=sharing)
-- 6/17/18: [Jews and Journalism in an Age of Fracture](https://drive.google.com/file/d/1D0cq0ur8P58v1c-MqG7bDwJi5VJACqq0/view)
-- 6/17/18: [Beyond Identity Politics](https://drive.google.com/file/d/1NwHWm14kjJi9mS7ScPb_QFVg7t0tAj8B/view)
+- 6/18/18: Beyond American Jewish Exceptionalism
+- 6/17/18: Jews and Journalism in an Age of Fracture
+- 6/17/18: Beyond Identity Politics
 - 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=3VGf3n5PR0OpfVLOLTsukA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
 - 04/26/15: Sounds Jewish Symposium and Concert Highlights Part I
