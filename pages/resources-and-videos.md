@@ -8,6 +8,8 @@ title: Resources and Videos
 # custom variables
 sidebar: staff.html
 ---
+___
+
 ![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.responsive-img .img-right}
 ## Books, Articles, and Curricula
 The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information. As a convenience, you may also click below on the title of the book to purchase it from the publisher. View list of books, articles, and curricula.
