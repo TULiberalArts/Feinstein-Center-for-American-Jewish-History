@@ -8,7 +8,8 @@ title: Support
 # custom variables
 sidebar: staff.html
 ---
-## Support
+___
+
 **Charitable gifts from alumni and friends of the Center have a direct effect** on the lives of Temple faculty and students and the larger Philadelphia community. These gifts enrich the intellectual experience for all of the humanities programs and departments at Temple and strengthen our ability to reach out into the Philadelphia community.
 
 Private donations created the endowment for the Feinstein Center for American Jewish History and the Murray Friedman Professorship. Your gift will support conferences and other public events sponsored by the Feinstein Center as well as graduate fellowships.
