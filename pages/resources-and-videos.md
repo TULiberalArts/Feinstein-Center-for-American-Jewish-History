@@ -26,7 +26,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 - 6/18/18: Beyond American Jewish Exceptionalism
 - 6/17/18: Jews and Journalism in an Age of Fracture
 - 6/17/18: Beyond Identity Politics
-- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://vimeo.com/194748709)
+- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=3VGf3n5PR0OpfVLOLTsukA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
 - 5/12/15: Little Failure: An Evening with Gary Shteyngart
 - 04/26/15: Sounds Jewish Symposium and Concert Highlights Part I
