@@ -43,4 +43,4 @@ Alissa Schapiro is a PhD Candidate in Art History at Northwestern University. He
 ___
 
 - [Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/PAST%20FELLOWS.pdf) 
-- [Special Awards Granted](https://drive.google.com/file/d/1Q49aFmvfmyxmGUmDvdFZaOmF9dzy26ar/view?usp=sharing)
+- [Special Awards Granted](https://drive.google.com/file/d/1Z2sgJHBFwtWcUZ_nBmkTjk3orQXRanaT/view?usp=sharing)
