@@ -17,7 +17,7 @@ Private donations created the endowment for the Feinstein Center for American Je
 Every contribution makes a difference, whether $5 or $5,000. Contributions are tax-deductible as charitable gifts and are formally acknowledged by the University’s Office of Institutional Advancement.
 
 ## Donate Online
-From Temple’s secure [giving page](https://secure.imodules.com/s/705/giving/2col.aspx?sid=705&gid=1&pgid=3813&cid=5100). Under “Designations,” select “Other” and type in **“Feinstein Center for American Jewish History”**.. This will guarantee that your contribution goes directly to the Feinstein Center. On the next page, enter the credit card information.
+On Temple’s secure [giving page](https://secure.imodules.com/s/705/giving/2col.aspx?sid=705&gid=1&pgid=3813&cid=5100), under “Designations,” select “Other” and type in **Feinstein Center for American Jewish History**. This will guarantee that your contribution goes directly to the Feinstein Center. On the next page, enter your payment information.
 
 ## Donate by Mail
 Donations can be sent to:
