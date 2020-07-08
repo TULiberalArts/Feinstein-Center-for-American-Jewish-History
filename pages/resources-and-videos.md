@@ -74,7 +74,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 
 ### How Kosher is Kosher Symposium
 **April 15, 2013**<br>
-- [Video of the Conference](https://vimeo.com/channels/517555)
+- Video of the Conference
 - [Transcript of the Conference](https://drive.google.com/file/d/1XT3p-vvy37OId-x6m6uZ1W9zPnE7HHz-/view?usp=sharing)(.doc)
 
 ### The Art of Being Jewish in the City Symposium
