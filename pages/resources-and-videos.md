@@ -20,21 +20,23 @@ View a list of archives all related to the exploration of the American Jewish ex
 
 ## Vimeo Channel
 ![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
-Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
+Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our [Vimeo channel](https://vimeo.com/feinsteincenter). You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
-- 6/18/18: Beyond American Jewish Exceptionalism
-- 6/17/18: Jews and Journalism in an Age of Fracture
-- 6/17/18: Beyond Identity Politics
-- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=3VGf3n5PR0OpfVLOLTsukA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
+- 6/18/18: [Beyond American Jewish Exceptionalism](https://vimeo.com/280782402)
+- 6/17/18: [Jews and Journalism in an Age of Fracture](https://vimeo.com/278510598)
+- 6/17/18: [Beyond Identity Politics](https://vimeo.com/282548269)
+- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://vimeo.com/194748709)
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
-- 04/26/15: Sounds Jewish Symposium and Concert Highlights Part I
-- 04/26/15: Sounds Jewish Symposium and Concert Highlights Part II
-- 03/12/14: Jewish Music Unplugged Part I
-- 03/12/14: Jewish Music Unplugged Part II
-- 03/06/14: Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement
-- 02/26/14: The Hands that Feed
-- 12/12/14: From Tel Aviv to Ramallah: A Beatbox Journey
+-5/12/15: [Little Failure: An Evening with Gary Shteyngart](https://vimeo.com/136983409)
+- 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part I](https://vimeo.com/137403942)
+- 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part II](https://vimeo.com/137403309)
+- 03/12/14: [Jewish Music Unplugged Part I](https://vimeo.com/143158985)
+- 03/12/14: [Jewish Music Unplugged Part II](https://vimeo.com/143159228)
+- 03/12/14: [Jewish Music Unplugged Part III](https://vimeo.com/143165244)
+- 03/06/14: [Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement](https://vimeo.com/138159910)
+- 02/26/14: [The Hands that Feed](https://vimeo.com/142517561)
+- 12/12/14: [From Tel Aviv to Ramallah: A Beatbox Journey](https://vimeo.com/137539746)
 
 ## Programs
 
