@@ -102,7 +102,7 @@ Sponsored by the Feinstein Center for American Jewish History, Jewish Studies, C
 **November 11, 2010**<br>
 **Edward H. Rosen Hillel Center**<br>
 
-- [Video of the Conference](https://vimeo.com/16927865)
+- Video of the Conference
 - [Transcript of the Conference – Panel One](https://drive.google.com/file/d/12QdpG0avTi4KW-PuiwoZ_6FIO7i8x0Zb/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Two](https://drive.google.com/file/d/1eqJoEbKCMQTr4yuC3maTVuxAPzjGTtO8/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Three](https://drive.google.com/file/d/1VSrB4BrdKao8uOF5f57DwyyUZ3tJUt4z/view?usp=sharing)(.doc)
