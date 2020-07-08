@@ -12,7 +12,7 @@ ___
 
 ![Blechman]({{site.baseurl}}/media/Blechman-poster-189x300.jpeg){:.responsive-img .img-right}
 ## Books, Articles, and Curricula
-The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information. As a convenience, you may also click below on the title of the book to purchase it from the publisher. View list of books, articles, and curricula.
+The Feinstein Center has published several books and articles related to the research we sponsor and conduct. We have a limited number of books available for purchase directly from the Center. Contact us for more information.
 
 ## Database of American Jewish Historical Repositories
 View a list of archives all related to the exploration of the American Jewish experience. The list is not exhaustive and occasional information changes or becomes outdated. Feel free to contact the Feinstein Center with suggestions or corrections.
@@ -28,7 +28,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 - 6/17/18: [Beyond Identity Politics](https://vimeo.com/282548269)
 - 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://vimeo.com/194748709)
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
--5/12/15: [Little Failure: An Evening with Gary Shteyngart](https://vimeo.com/136983409)
+- 5/12/15: [Little Failure: An Evening with Gary Shteyngart](https://vimeo.com/136983409)
 - 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part I](https://vimeo.com/137403942)
 - 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part II](https://vimeo.com/137403309)
 - 03/12/14: [Jewish Music Unplugged Part I](https://vimeo.com/143158985)
@@ -74,7 +74,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 
 ### How Kosher is Kosher Symposium
 **April 15, 2013**<br>
-- Video of the Conference
+- [Video of the Conference](https://vimeo.com/channels/517555)
 - [Transcript of the Conference](https://drive.google.com/file/d/1XT3p-vvy37OId-x6m6uZ1W9zPnE7HHz-/view?usp=sharing)(.doc)
 
 ### The Art of Being Jewish in the City Symposium
@@ -102,7 +102,7 @@ Sponsored by the Feinstein Center for American Jewish History, Jewish Studies, C
 **November 11, 2010**<br>
 **Edward H. Rosen Hillel Center**<br>
 
-- Video of the Conference
+- [Video of the Conference](https://vimeo.com/16927865)
 - [Transcript of the Conference – Panel One](https://drive.google.com/file/d/12QdpG0avTi4KW-PuiwoZ_6FIO7i8x0Zb/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Two](https://drive.google.com/file/d/1eqJoEbKCMQTr4yuC3maTVuxAPzjGTtO8/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Three](https://drive.google.com/file/d/1VSrB4BrdKao8uOF5f57DwyyUZ3tJUt4z/view?usp=sharing)(.doc)
