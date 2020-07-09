@@ -20,7 +20,7 @@ View a list of archives all related to the exploration of the American Jewish ex
 
 ## Vimeo Channel
 ![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
-Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
+Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our [Vimeo channel](https://vimeo.com/feinsteincenter). You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
 - 6/18/18: Beyond American Jewish Exceptionalism
