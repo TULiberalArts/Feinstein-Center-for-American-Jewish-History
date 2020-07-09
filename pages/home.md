@@ -29,8 +29,8 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="Feinstein Announces our 2019 Fellows"
-      content="Visit our Fellows page to see our Summer 2019 and past fellows."
+      title="Feinstein Announces our 2020 Fellows"
+      content="Visit our Fellows page to see our Summer 2020 and past fellows."
       image=""
       button-link="https://www.cla.temple.edu/feinstein-center-for-american-jewish-history/fellowships"
       button-text="Learn More" %}
