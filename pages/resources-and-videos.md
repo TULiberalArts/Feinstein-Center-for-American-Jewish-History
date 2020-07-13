@@ -18,25 +18,25 @@ The Feinstein Center has published several books and articles related to the res
 View a list of archives all related to the exploration of the American Jewish experience. The list is not exhaustive and occasional information changes or becomes outdated. Feel free to contact the Feinstein Center with suggestions or corrections.
 - [Download Database](https://liberalarts.temple.edu/sites/liberalarts/files/ArchiveTableMergedDataupdated10-25-13.pdf) (pdf)
 
-## Vimeo Channel https://vimeo.com/feinsteincenter).
+## Vimeo Channel
 ![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
-Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
+Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our [Vimeo channel](https://vimeo.com/feinsteincenter). You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
 - 6/18/18: [Beyond American Jewish Exceptionalism](https://vimeo.com/280782402)
-- 6/17/18: Jews and Journalism in an Age of Fracture
-- 6/17/18: Beyond Identity Politics
-- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=3VGf3n5PR0OpfVLOLTsukA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
+- 6/17/18: [Jews and Journalism in an Age of Fracture](https://vimeo.com/278510598)
+- 6/17/18: [Beyond Identity Politics](https://vimeo.com/282548269)
+- 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://vimeo.com/194748709)
 - 11/13/16: [Fallen Fruit: Endless Orchard](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=l3bdoFin_0-ZKvoZtCWkGA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
-- 5/12/15: Little Failure: An Evening with Gary Shteyngart
-- 04/26/15: Sounds Jewish Symposium and Concert Highlights Part I
-- 04/26/15: Sounds Jewish Symposium and Concert Highlights Part II
-- 03/12/14: Jewish Music Unplugged Part I
-- 03/12/14: Jewish Music Unplugged Part II
-- 03/12/14: Jewish Music Unplugged Part III
-- 03/06/14: Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement
-- 02/26/14: The Hands that Feed
-- 12/12/14: From Tel Aviv to Ramallah: A Beatbox Journey
+- 5/12/15: [Little Failure: An Evening with Gary Shteyngart](https://vimeo.com/136983409)
+- 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part I](https://vimeo.com/137403942)
+- 04/26/15: [Sounds Jewish Symposium and Concert Highlights Part II](https://vimeo.com/137403309)
+- 03/12/14: [Jewish Music Unplugged Part I](https://vimeo.com/143158985)
+- 03/12/14: [Jewish Music Unplugged Part II](https://vimeo.com/143159228)
+- 03/12/14: [Jewish Music Unplugged Part III](https://vimeo.com/143165244)
+- 03/06/14: [Murray Freidman Memorial Lecture: Soviet Jewry Activists & Civic Engagement](https://vimeo.com/138159910)
+- 02/26/14: [The Hands that Feed](https://vimeo.com/142517561)
+- 12/12/14: [From Tel Aviv to Ramallah: A Beatbox Journey](https://vimeo.com/137539746)
 
 ## Programs
 
@@ -74,7 +74,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 
 ### How Kosher is Kosher Symposium
 **April 15, 2013**<br>
-- Video of the Conference
+- [Video of the Conference](https://vimeo.com/channels/517555)
 - [Transcript of the Conference](https://drive.google.com/file/d/1XT3p-vvy37OId-x6m6uZ1W9zPnE7HHz-/view?usp=sharing)(.doc)
 
 ### The Art of Being Jewish in the City Symposium
@@ -102,7 +102,7 @@ Sponsored by the Feinstein Center for American Jewish History, Jewish Studies, C
 **November 11, 2010**<br>
 **Edward H. Rosen Hillel Center**<br>
 
-- Video of the Conference
+- [Video of the Conference](https://vimeo.com/16927865)
 - [Transcript of the Conference – Panel One](https://drive.google.com/file/d/12QdpG0avTi4KW-PuiwoZ_6FIO7i8x0Zb/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Two](https://drive.google.com/file/d/1eqJoEbKCMQTr4yuC3maTVuxAPzjGTtO8/view?usp=sharing)(.doc)
 - [Transcript of the Conference – Panel Three](https://drive.google.com/file/d/1VSrB4BrdKao8uOF5f57DwyyUZ3tJUt4z/view?usp=sharing)(.doc)
