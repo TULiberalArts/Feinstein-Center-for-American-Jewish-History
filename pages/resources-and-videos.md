@@ -18,12 +18,12 @@ The Feinstein Center has published several books and articles related to the res
 View a list of archives all related to the exploration of the American Jewish experience. The list is not exhaustive and occasional information changes or becomes outdated. Feel free to contact the Feinstein Center with suggestions or corrections.
 - [Download Database](https://liberalarts.temple.edu/sites/liberalarts/files/ArchiveTableMergedDataupdated10-25-13.pdf) (pdf)
 
-## Vimeo Channel
+## [Vimeo Channel](https://vimeo.com/feinsteincenter).
 ![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
 Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
 
 ## Event Highlight Videos
-- 6/18/18: Beyond American Jewish Exceptionalism
+- 6/18/18: [Beyond American Jewish Exceptionalism](https://vimeo.com/280782402)
 - 6/17/18: Jews and Journalism in an Age of Fracture
 - 6/17/18: Beyond Identity Politics
 - 11/07/16: [Art is My Weapon: The Radical Musical Life of Lin Jaldati](https://ensemble.temple.edu/app/plugin/embed.aspx?ID=3VGf3n5PR0OpfVLOLTsukA&isNewPluginEmbed=true&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&width=640&height=360&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=true&displayDateProduced=false&displayCaptionSearch=false)
