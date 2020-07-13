@@ -18,7 +18,7 @@ The Feinstein Center has published several books and articles related to the res
 View a list of archives all related to the exploration of the American Jewish experience. The list is not exhaustive and occasional information changes or becomes outdated. Feel free to contact the Feinstein Center with suggestions or corrections.
 - [Download Database](https://liberalarts.temple.edu/sites/liberalarts/files/ArchiveTableMergedDataupdated10-25-13.pdf) (pdf)
 
-## [Vimeo Channel](https://vimeo.com/feinsteincenter).
+## Vimeo Channel https://vimeo.com/feinsteincenter).
 ![Symposium]({{site.baseurl}}/media/Symposium.jpg){:.responsive-img .img-right}
 Stay in touch and engaged with the Feinstein Center through our symposiums and concerts via our Vimeo channel. You can view past events that have inspired and supported the mission here at Feinstein!
 
