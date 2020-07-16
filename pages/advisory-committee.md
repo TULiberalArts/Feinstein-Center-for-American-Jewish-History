@@ -22,11 +22,10 @@ Dan is in high demand as a teacher at many of the leading klezmer festivals such
 
 ___
 
-**Rabbi Yosef Goldman** is Assistant Rabbi at [Temple BZBI](http://www.bzbi.org/) in Center City. He is a spiritual community builder, educator, prayer leader and musician. Yosef is passionate about creating a range of opportunities for engagement in Jewish community that speak to the many ways that people identify as Jews- be they ethnic, religious or cultural. He has an eclectic background and spiritual path. Raised Orthodox, in a mixed Ashkenazi/Arab Jewish family, he has since studied, taught and created sacred prayer space in communities throughout the Jewish denominational spectrum, including B’nai Jeshurun, The Carlebach Shul and Romemu in New York City. Yosef was ordained in 2013 at the Jewish Theological Seminary with a concentration in pastoral care and counseling, and earned a Masters in Sacred Music from the H.L. Miller Cantorial School. He performs as a singer with Middle Eastern Jewish music collective the Epichorus. Yosef lives in West Mount Airy with his wife, Rabbi Annie Lewis.
+**Rabbi Yosef Goldman** is co-director of Hadar’s Rising Song Institute. Raised in a mixed Orthodox Ashkenazi and Mizrachi home, Yosef has taught and led prayer in communities of every Jewish movement. He has served as a ba’al tefillah for some of the most spiritually vibrant and creative prayer communities in the United States and Israel, including Romemu and B’nai Jeshurun in Manhattan, the Kitchen in San Francisco, and Beit Tefila Yisraeli in Israel. For over a decade, as a consultant, Yosef has advised synagogues and prayer communities seeking to deepen the communal spiritual experience through musical prayer. 
 
-___
-
-**Rabbi Seth Goren** is the Director of [Repair the World: Philadelphia](http://www.werepair.org/). After earning a B.A. and M.A.in Linguistics from the University of Pennsylvania, Rabbi Seth Goren received his J.D. from the University of Pennsylvania Law School and studied at Hebrew Union College-Jewish Institute of Religion for an M.A.H.L. and rabbinic ordination. He and his daughter, Liana, live in Mount Airy.
+As a sought-after vocalist, Yosef performs and records with a wide range of Jewish artists. He is a featured vocalist in the Hadar Ensemble (led by Joey Weisenberg) and a founding member of the Middle Eastern Jewish music ensemble the Epichorus. Along with trombonist Dan Blacksberg, Yosef was selected by the Kimmel Center for the Performing Arts for its 2018–19 Jazz Residency. His first album of original music, Open My Heart, was released by the Rising Song Institute in 2019.
+Yosef received rabbinic ordination from the Jewish Theological Seminary in 2013, with a concentration in pastoral care and counseling, and was also awarded a Master of Sacred Music. He most recently served as Rabbi and Director of Sacred Music at Temple Beth Zion–Beth Israel in Philadelphia.
 
 ___
 
@@ -46,4 +45,4 @@ ___
 
 ___
         
-**Carly Zimmerman** is the CEO of [Challah for Hunger](http://challahforhunger.org/), a Philadelphia based non-profit with an international impact that inspires young people to “bake a difference” through challah baking, advocacy and philanthropy. Carly holds a M.A. in Jewish Professional Studies from the Spertus Institute of Jewish Learning and Leadership and a B.A. in History and Political Science from the University of Pittsburgh. Prior to Challah for Hunger, Carly worked as the Jewish Life Director at Hillel at Pitt and Temple University. She lives and works in Philadelphia with her husband Michael, where she spends most free time outside on a bike or a walk with her two dogs.
+**Carly Zimmerman** is the Senior Relationship Director at BBYO. She previously served at CEO of [Challah for Hunger](http://challahforhunger.org/) for six years, leading efforts to end hunger on college campuses. Carly holds a M.A. in Jewish Professional Studies from the Spertus Institute of Jewish Learning and Leadership and a B.A. in History and Political Science from the University of Pittsburgh. Carly is co-chair of the Women of Vision grantmaking committee. 
