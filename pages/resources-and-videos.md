@@ -85,7 +85,7 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 - [Transcript of the Conference – Panel Three](https://drive.google.com/file/d/12Plv2qtbZ7LJ3cAXI-vPdndXlwJ3qnJ2/view?usp=sharing) (.doc)
 
 ### The Art of Being Jewish in the City Fall Programs 2011
-- [Program Brochure](https://drive.google.com/file/d/19v-CXlJ6ruO1KPhR5snrAyel8HenSLYF/view?usp=sharing). (.pdf)<br>
+- [Program Brochure](https://drive.google.com/file/d/19v-CXlJ6ruO1KPhR5snrAyel8HenSLYF/view?usp=sharing) (.pdf)<br>
 
 **Lectures Fall 2011**
 - [Flyer](https://drive.google.com/file/d/1iBnTysKwrO-oJgqfHs8xQmh3qooeAkPN/view?usp=sharing) (.pdf)
