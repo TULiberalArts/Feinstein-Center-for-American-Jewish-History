@@ -79,7 +79,6 @@ Stay in touch and engaged with the Feinstein Center through our symposiums and c
 
 ### The Art of Being Jewish in the City Symposium
 **March 15, 2012**<br>
-- Video of the Conference
 - [Program Brochure](https://drive.google.com/file/d/1E61vD_g0opH_UBEm3VemTm2HwvZH8RXU/view?usp=sharing)(.pdf)
 - [Transcript of the Conference – Panel One](https://drive.google.com/file/d/1RvHsjAQ4CLEytKbPrcZe8QumUATrWiOe/view?usp=sharing) (.doc)
 - [Transcript of the Conference – Panel Two](https://drive.google.com/file/d/1Z8yvQcTbP65I65H4PxLTg2cZgav6ne4Q/view?usp=sharing) (.doc)
@@ -110,7 +109,7 @@ Sponsored by the Feinstein Center for American Jewish History, Jewish Studies, C
 
 _Sponsored by Temple University’s Feinstein Center for American Jewish History, History Department, and Center for the Humanities, and the Foundation for Jewish Culture_
 
-## Evangelical Jewish Relations: Politics, Policy, and Theology
+### Evangelical Jewish Relations: Politics, Policy, and Theology
 **November 28-29, 2007**<br>
 **Temple University Center City Campus, Philadelphia, PA**<br>
 
