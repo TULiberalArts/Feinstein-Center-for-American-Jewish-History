@@ -30,7 +30,7 @@ Ariel Cohen is a PhD candidate at the University of Virginia in the Department o
 ___
 
 ![Andrew Fogel]({{site.baseurl}}/media/andrewfogel.jpg){:.responsive-img .img-right}
-**_Andrew Fogel_** (MA candidate, Purdue University)<br>
+**_Andrew Fogel_** (PhD candidate, Purdue University)<br>
 Andrew Fogel is a PhD candidate at Purdue University in the Department of History specializing in modern US cultural history. His dissertation examines the racial architecture, sociocultural impact, and reception of the superhero fantasy as well as its Jewish creators’ relationship to the nation from inception in the late 1930s to the crisis of September 11, 2001. This historical project argues that the racial design of the superhero fantasy must be understood through its Jewish architects and their struggle to enter as well as shape the establishment culture of white Protestant America.
 
 ___
